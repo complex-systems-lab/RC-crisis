@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Sisodia"
+  given-names: "Dishant"
+- family-names: "Jalan"
+  given-names: "Sarika"
+title: "RC-crisis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-04-21
+url: "https://github.com/complex-systems-lab/RC-crisis"
