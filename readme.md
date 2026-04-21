@@ -3,7 +3,7 @@
 This repository contains the Python code and Jupyter notebooks to generate the results of the paper:
 
 **Dynamics of Reservoir Computing for Crises Prediction**  
-[arXiv:2510.13246](https://arxiv.org/abs/2510.13246)
+https://doi.org/10.1103/8b7z-fnjd
 
 ## Overview
 
